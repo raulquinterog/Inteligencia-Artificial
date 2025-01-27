@@ -1,4 +1,11 @@
 # Inteligencia-Artificial
+
+INDICE
+[LINK A LA INVESTIGACION
+]([url](https://github.com/raulquinterog/Inteligencia-Artificial/blob/f694ac274988d5c0592a2809137d489446e7d2f5/Felicidad%20vs%20GDP%20Regresion%20Lineal.ipynb))
+[LINK A LOS DATOS
+]([url](https://github.com/raulquinterog/Inteligencia-Artificial/blob/f694ac274988d5c0592a2809137d489446e7d2f5/A1.2%20Felicidad%20y%20GDP.csv))
+
 README - Regresión Lineal Simple
 
 Descripción General
